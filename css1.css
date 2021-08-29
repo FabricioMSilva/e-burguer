@@ -1,0 +1,160 @@
+.txt1 { 
+    padding: 07mm;
+    width: 80%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-left: 5%;
+    display: inline-block;
+    font-size: 1.3rem;
+    
+}
+
+.txt2{
+    padding: 07mm;
+    width: 80%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-left: 5%;
+    display: inline-block;
+    font-size: 1.3rem;
+    
+
+}
+.logo {
+    width: 100%;
+    height: 250px;
+}
+
+.barra {
+    width: 100%;
+    height: 150px;
+}
+
+.vid1 {
+ padding-bottom: 3rem;   
+}
+
+.subtitulo{
+    text-align: left;
+    font-size: 1.7rem ;
+    margin-left: 5%;
+}
+
+.titulo{
+    text-align: center;
+font-size: 2rem;
+
+margin-top: 10rem;
+}
+
+.rodape {
+    background-color: var(--cor-fundo);
+    color: orange;
+}
+
+
+}
+.t11{
+
+width: 90%;
+text-align: center;
+margin-left: 10%;
+margin-right: 10%;
+display: inline-block;
+font-size: 1.5rem;
+}
+.img9{padding-inline: 10%;}
+.img1{margin-left: 32%;}
+.img2{text-align:center;width:40%;margin-left: 30%;}
+.img3{margin-left: 32%; size: 15%;}
+.img12{
+padding-left: 20%;
+}
+.img13{
+    padding-left: 35%;
+
+    }
+.img15{text-align: center;}            
+.img16{text-align:center;width:40%;margin-left: 30%;margin: top 10rem; }  
+
+.img8{text-align:center;width:60%;margin-left: 20%;}
+.text2{
+
+font-size: 1.4rem;
+    text-align: left ;
+}
+
+.text3{
+
+    font-size: 1.4rem;
+    text-align: justify ;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.text4{
+width: 80%;
+font-size: 1.4rem;
+text-align: justify  center;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+.bto5{   
+margin-bottom: 2rem;
+border-radius: 12px;
+font-family:"Segoe UI";
+text-shadow: 0 1px 0 #666;
+height: 30mm;
+box-shadow: inset 0 1px 1px #fff, 0 2px 3px #666;
+cursor:pointer;
+width: 60mm;
+background-color: brown;
+margin-right: 3%;margin-right: 3%;margin-top: 3%;
+font-size: 1rem;
+color: white;
+}
+.indi{
+
+    text-align: center;
+}
+.indi{
+   
+        background-image: url(./imagens/numeradas/molhos-de-Hamburguers-que-voce-PRECISA-ter-em-seu-delivery.jpg);
+       back
+}
+.titulo44{
+
+    text-align:center;
+    font-size:2rem;
+   
+}
+
+.br1{
+
+    text-align:center;
+
+    margin-left: 10%;margin-right: 10%;
+}
+.bb{
+
+font-size: 1.5rem;
+    background-color: yellow;
+}
+.be{background-color: brown; color: white;  margin-left: 10%;margin-right: 10%;font-size: 1.8rem;}
+
+.zap{
+    position: fixed;
+    width: 5rem;
+    height: 5rem;
+    bottom: 3rem;
+    right: 2rem;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow:  1px 1px 2px greenyellow;
+    z-index: 1000;
+    margin-top: 0px;
+
+
+}
+
